@@ -19,6 +19,7 @@ section {
 .sec_title {
   float: right;
   padding: 15px;
+  position: relative;
   font-weight: bold;
   border: 2px solid black;
   border-top: 1px;
