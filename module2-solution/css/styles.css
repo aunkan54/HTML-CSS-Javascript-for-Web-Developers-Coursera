@@ -11,7 +11,7 @@ h1 {
 
 section {
   background: gray;
-  border: 2px solid black;
+  border: 1px solid black;
   margin: 10px;
   float: left;
 }
@@ -20,9 +20,10 @@ section {
   float: right;
   padding: 15px;
   font-weight: bold;
-  border: 2px solid black;
-  border-top: 1px;
-  border-right: 1px;
+  position: relative;
+  border: 1px solid black;
+  border-top: none;
+  border-right: none;
 }
 
 .content {
